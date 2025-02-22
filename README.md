@@ -51,7 +51,7 @@
   [DOI 링크](https://doi.org/10.1038/s41586-021-04014-z)
 
 ### 4. 핵심 알고리즘 의사 코드
-> ![](https://github.com/icp1481/Decision-Operations-Lab/blob/main/%ED%95%B5%EC%8B%AC%20%EC%9D%98%EC%82%AC%EC%BD%94%EB%93%9C.png)
+> ![](https://github.com/icp1481/Decision-Operations-Lab/blob/main/%ED%95%B5%EC%8B%AC%20%EC%9D%98%EC%82%AC%EC%BD%94%EB%93%9C.png](https://github.com/icp1481/Decision-Operations-Lab/blob/main/images/%ED%95%B5%EC%8B%AC%20%EC%9D%98%EC%82%AC%EC%BD%94%EB%93%9C.png)
 ---
 
 ## IV. 연구 결과
