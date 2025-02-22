@@ -69,7 +69,7 @@
 - **성과:** MAB 알고리즘은 uniform 방식 대비 약 1.67배 우수한 성능을 보임
 
 ### 3. Confusion Matrix
-> ![](https://github.com/icp1481/Decision-Operations-Lab/blob/main/%EC%97%B0%EA%B5%AC%EA%B2%B0%EA%B3%BC%20-%20confusion%20matrix.png)
+> ![]([https://github.com/icp1481/Decision-Operations-Lab/blob/main/%EC%97%B0%EA%B5%AC%EA%B2%B0%EA%B3%BC%20-%20confusion%20matrix.png](https://github.com/icp1481/Decision-Operations-Lab/blob/main/images/%EC%97%B0%EA%B5%AC%EA%B2%B0%EA%B3%BC%20-%20confusion%20matrix.png))
 
 | Metric    | Value   |
 |-----------|---------|
