@@ -2,7 +2,6 @@
 
 **지도교수:** 민승기 교수님  
 **Lab 링크:** [KAIST Decision & Operations Lab](http://do.kaist.ac.kr/)  
-**개인 연구 관련 Github:** [Decision-Operations-Lab Repository](https://github.com/icp1481/Decision-Operations-Lab.git)
 
 ---
 
