@@ -69,6 +69,8 @@
 - **성과:** MAB 알고리즘은 uniform 방식 대비 약 1.67배 우수한 성능을 보임
 
 ### 3. Confusion Matrix (예시)
+> ![]()
+
 | Metric    | Value   |
 |-----------|---------|
 | Accuracy  | 0.5497  |
